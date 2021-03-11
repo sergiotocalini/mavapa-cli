@@ -1,0 +1,28 @@
+site_name: 'mavapa-cli'
+site_description:
+  Identity Provider using several backend systems
+site_author: 'Sergio Tocalini'
+site_url: 'https://mavapa.readthedocs.io/projects/mavapa-cli'
+
+nav:
+  - Home: index.md
+
+theme:
+  name: material
+
+repo_name: 'sergiotocalini/mavapa'
+repo_url: 'https://github.com/sergiotocalini/mavapa-cli'
+
+extra:
+  social:
+    - type: github
+      icon: fontawesome/brands/github-alt
+      link: 'https://github.com/sergiotocalini/mavapa-cli'
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - meta
