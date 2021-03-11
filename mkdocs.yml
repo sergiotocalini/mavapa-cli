@@ -10,7 +10,7 @@ nav:
 theme:
   name: material
 
-repo_name: 'sergiotocalini/mavapa'
+repo_name: 'sergiotocalini/mavapa-cli'
 repo_url: 'https://github.com/sergiotocalini/mavapa-cli'
 
 extra:
